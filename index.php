@@ -61,7 +61,7 @@
 						</a>
 						<div class="navigation-tablet-close w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false"><img src="img/621ceb3b4ea6fc980030a40b_Close-icon.png" loading="lazy" alt="close icon" class="nav-tablet-close-icon"></div>
 					</div>
-					<div data-hover="true" data-delay="0" data-w-id="82cece6a-1728-35ad-4033-156bb917a435" class="nav-dropdown w-dropdown" style="">
+					<div data-hover="true" data-delay="0" data-w-id="82cece6a-1728-35ad-4033-156bb917a435" class="nav-dropdown w-dropdown">
 						<div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-1" aria-controls="w-dropdown-list-1" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
 							<a href="#numbers" class="nav-link tablet-link w-inline-block scrollto">
 								<p class="nav-item-text" style="color: rgb(255, 255, 255);">Цифры</p>
@@ -70,7 +70,7 @@
 							</a>
 						</div>
 					</div>
-					<div data-hover="true" data-delay="0" data-w-id="3d20b153-25e8-027a-8a78-094bc5c154bc" class="nav-dropdown w-dropdown" style="">
+					<div data-hover="true" data-delay="0" data-w-id="3d20b153-25e8-027a-8a78-094bc5c154bc" class="nav-dropdown w-dropdown">
 						<div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-2" aria-controls="w-dropdown-list-2" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
 							<a href="#interior" class="nav-link tablet-link w-inline-block scrollto">
 								<p class="nav-item-text" style="color: rgb(255, 255, 255);">Интерьер</p>
@@ -548,7 +548,7 @@
 							</div>
 						</div>
 					</div>
-					<div data-w-tab="Tab 3" class="w-tab-pane" id="w-tabs-0-data-w-pane-2" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-2" style="">
+					<div data-w-tab="Tab 3" class="w-tab-pane" id="w-tabs-0-data-w-pane-2" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-2">
 						<div class="tabs-collection-list-wrapper w-dyn-list">
 							<div role="list" class="tabs-collection-list tabs-grid w-dyn-items">
 								<div role="listitem" class="tabs-collection-item w-dyn-item"><a href="#" class="w-lightbox" aria-label="open lightbox" aria-haspopup="dialog">
@@ -579,7 +579,7 @@
 							
 						</div>
 					</div>
-					<div data-w-tab="Tab 4" class="w-tab-pane" id="w-tabs-0-data-w-pane-3" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-3" style="">
+					<div data-w-tab="Tab 4" class="w-tab-pane" id="w-tabs-0-data-w-pane-3" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-3">
 						<div class="tabs-collection-list-wrapper w-dyn-list">
 							<div role="list" class="tabs-collection-list tabs-grid w-dyn-items">
 								<div role="listitem" class="tabs-collection-item w-dyn-item"><a href="#" class="w-lightbox" aria-label="open lightbox" aria-haspopup="dialog">
@@ -663,7 +663,7 @@
 					<div class="left-arrow-3 w-slider-arrow-left" role="button" tabindex="0" aria-controls="w-slider-mask-2" aria-label="previous slide" style="display: none;">
 						<div class="icon-6 w-icon-slider-left"></div>
 					</div>
-					<div class="right-arrow-3 w-slider-arrow-right" role="button" tabindex="0" aria-controls="w-slider-mask-2" aria-label="next slide" style="">
+					<div class="right-arrow-3 w-slider-arrow-right" role="button" tabindex="0" aria-controls="w-slider-mask-2" aria-label="next slide">
 						<div class="icon-5 w-icon-slider-right"></div>
 					</div>
 					<div class="slide-nav-3 w-slider-nav w-round">
